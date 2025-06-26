@@ -1,1 +1,1 @@
-This has a bunch of diffrent C code from a Decimal to Hex convertor all the way to a full basic BST This can help someone see a wide variety of code in C from the most basic stuff all the way to pointers and structs.
+This has a bunch of diffrent C code from a Hex to Decimal convertor all the way to a full basic BST with traversal This can help someone see a wide variety of code in C from the most basic stuff all the way to pointers and structs.
